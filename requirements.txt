@@ -7,7 +7,7 @@ chardet==3.0.4
 Choco==1.0.5
 ConfigArgParse==0.15.1
 configobj==5.0.6
-cryptography==3.2
+cryptography==3.3.2
 distro==1.4.0
 dj-database-url==0.5.0
 Django==2.2.13
