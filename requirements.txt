@@ -1,7 +1,7 @@
 acme==0.40.1
 bcrypt==3.1.7
 certbot==0.40.1
-certifi==2019.9.11
+certifi==2022.12.7
 cffi==1.12.3
 chardet==3.0.4
 Choco==1.0.5
